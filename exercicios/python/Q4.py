@@ -1,0 +1,9 @@
+nomes = []
+
+for i in range(5):
+    n = input('Digite o nome: ')
+    nomes.append(n)
+    
+print('Os nomes da lista em ordem alfabética: ')
+print(sorted(nomes))    
+#Commits on Sep 28, 2024
