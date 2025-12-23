@@ -1,0 +1,115 @@
+                              SOFTWARE
+
+ • software: parte lógica do sistema computacional. 
+
+ • software básicos: são os sistemas operacionais. 
+   ↪ ex: Windows, Linux, Onix etc.
+
+ • software aplicativo: são os aplicativos propriamente ditos. 
+   ↪ ex: sistemas de informação em geral. 
+
+▶ obs1: não existe funcionamento do hardware sem a presença do software básico.
+
+▶ obs2: o software básico tem função de gerenciar toda a parte de hardware e criar interface entre os aplicativos do usuário e próprio sistema operacional.
+
+ • componentes: 
+  ↪ computadores 
+  ↪ software (mais caro e dura menos)
+  ↪ equipamentos ativos
+  ↪ cabeamento estruturado (mais barato e dura mais)
+
+
+                                         USUÁRIOS
+• usuários especialistas:
+ » são aqueles que desenvolvem as aplicações ou sistemas de informações.
+ ↪ ex: engenheiros de software, analistas de sistemas ou profissionais de informática em geral. 
+
+• usuários finais:
+ » são aqueles que irão usar os sistemas desenvolvidos pelos usuários especialistas.
+
+▶ obs3: deve existir uma interação constante entre os usuários finais para que os resultados sejam alcançados da melhor forma possível.
+
+
+
+                                       SISTEMAS
+» módulo financeiro
+ ↪ fluxo de caixa
+ ↪ análise de crédito
+ ↪ análise de investimentos
+ ↪ avaliação de desempenho 
+ ↪ análise de risco
+ 
+
+» módulo RH
+ ↪ recrutamento
+ ↪ seleção
+ ↪ treinamentos
+
+» módulo contabilidade 
+ ↪ registros
+
+» módulo RMP
+ ↪ gestão de estoque
+ ↪ gestão de compras
+ ↪ almoxarifado
+
+
+                                             COMPOSIÇÃO
+       Módulos
+         ↓
+processos = atribuições
+
+
+
+estoque mínimo      X      estoque máximo
+       ↓                         ↓
+quantidade mínima         quantidade máxima
+de itens necessários      de itens necessários
+em um estoque.            em um estoque.
+
+
+   ↪ estoque mínimo:
+
+• Emin= venda média X tempo de reposição.
+
+• tempo de reposição: tempo que o fornecedor levou para entregar o material solicitado.
+
+
+  ↪ estoque máximo:
+
+• Emax = Emin + Lote de reposição.
+
+• lote de reposição = quantidade solicitada.
+
+
+
+                25 dias trabalhados
+
+itens  ∣   m1  ∣   m2  ∣   m3   ∣           vmd        ∣
+prod a ∣  100  ∣  100  ∣  100   ∣  ((m1+m2+m3)/3)25=4  ∣
+prod b ∣  200  ∣  200  ∣  200   ∣           8          ∣
+prod c ∣  400  ∣  400  ∣  400   ∣           16         ∣
+
+
+
+itens  ∣ L.R  ∣ Emax  ∣  
+prod a ∣  50  ∣  62   ∣ 
+prod b ∣  60  ∣  92   ∣         
+prod c ∣  80  ∣  160  ∣  
+
+
+
+itens  ∣ T.R  ∣ Emin  ∣  
+prod a ∣  3   ∣  12   ∣ 
+prod b ∣  4   ∣  32   ∣         
+prod c ∣  5   ∣  80   ∣  
+
+         
+          TOMADA DE DECISÃO
+
+itens  ∣ E.A   ∣ comprar ou não comprar  ∣  
+prod a ∣  20   ∣      não comprar        ∣ 
+prod b ∣  40   ∣      não comprar        ∣         
+prod c ∣  70   ∣       comprar           ∣ 
+
+      
